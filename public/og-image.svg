@@ -1,0 +1,20 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#090b14"/>
+  <rect x="56" y="56" width="1088" height="518" rx="34" fill="url(#paint0_linear)" stroke="rgba(255,255,255,0.08)"/>
+  <circle cx="1044" cy="128" r="120" fill="rgba(139,92,246,0.18)"/>
+  <circle cx="182" cy="492" r="150" fill="rgba(255,107,92,0.16)"/>
+  <text x="104" y="186" fill="#f6f7ff" font-family="Outfit, Arial, sans-serif" font-size="74" font-weight="700" letter-spacing="-1.8">Mitesh Soni</text>
+  <text x="104" y="252" fill="#c7cae3" font-family="Outfit, Arial, sans-serif" font-size="30" font-weight="500">Full Stack Developer Portfolio</text>
+  <text x="104" y="326" fill="#b2b7d4" font-family="Outfit, Arial, sans-serif" font-size="24" font-weight="400">React • Node.js • TypeScript • Modern web experiences</text>
+  <g transform="translate(104 394)">
+    <rect width="210" height="56" rx="18" fill="#ff6b5c"/>
+    <text x="31" y="36" fill="#090b14" font-family="Outfit, Arial, sans-serif" font-size="22" font-weight="700">Selected Projects</text>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear" x1="56" y1="56" x2="1144" y2="574" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11162a"/>
+      <stop offset="0.55" stop-color="#171d34"/>
+      <stop offset="1" stop-color="#0d1020"/>
+    </linearGradient>
+  </defs>
+</svg>
