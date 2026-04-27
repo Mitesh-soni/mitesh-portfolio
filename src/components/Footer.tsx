@@ -57,7 +57,7 @@ const Footer = () => {
                   <i className="fa-brands fa-github" />
                 </a>
                 <a
-                  href="tel:+8000215545"
+                  href="tel:+9588030800"
                   className="social-btn"
                   aria-label="Phone"
                 >
