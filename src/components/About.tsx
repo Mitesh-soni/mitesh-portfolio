@@ -142,7 +142,7 @@ export default function About() {
                 <div className="stat-lbl">Projects</div>
               </div>
               <div className="stat-box">
-                <div className="stat-val">40+</div>
+                <div className="stat-val">20+</div>
                 <div className="stat-lbl">
                   Languages, Tools &amp; Frameworks
                 </div>

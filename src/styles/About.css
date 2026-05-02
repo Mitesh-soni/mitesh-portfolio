@@ -357,4 +357,5 @@
   .hero-img-mask { width: 240px; height: 310px; }
   .hero-wrap { min-height: auto; padding: 96px 0 64px; }
   .img-frame::after { right: -6px; }
+  .stat-box { flex: 0 1 120px; }
 }

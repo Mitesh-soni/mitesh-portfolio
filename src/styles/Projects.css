@@ -539,12 +539,17 @@
 
     .cs-timeline-content,
     .cs-timeline-img-wrap {
-        width: 100%;
+        width: 90%;
     }
 
     .cs-timeline-content {
         padding: 0;
         margin-bottom: 30px;
+    }
+    .cs-desc {
+        font-size: 0.9rem;
+        margin-right: 10%;
+        text-align: left;
     }
 }
 
