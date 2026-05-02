@@ -138,7 +138,7 @@ export default function About() {
                 <div className="stat-lbl">{exp.statLabel}</div>
               </div>
               <div className="stat-box">
-                <div className="stat-val">25+</div>
+                <div className="stat-val">16+</div>
                 <div className="stat-lbl">Projects</div>
               </div>
               <div className="stat-box">
