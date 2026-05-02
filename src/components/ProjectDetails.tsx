@@ -68,7 +68,7 @@ const projectsData: Project[] = [
     ],
     role: "Full-Stack Developer",
     tools: "React, Node.js, Payments UI, PDF Invoices",
-    timeline: "6 Months",
+    timeline: "1 Month",
     githubLink: "https://github.com/Mitesh-soni/Cabik",
     designSystem: {
       font: "Outfit",
