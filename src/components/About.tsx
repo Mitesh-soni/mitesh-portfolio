@@ -11,6 +11,7 @@ const RESUME_FILE_PATH = ResumeFile;
 
 export default function About() {
   const [today, setToday] = useState(new Date());
+  const [imgLoaded, setImgLoaded] = useState(false);
 
   const handleResumeDownload = async (event) => {
     event.preventDefault();
@@ -175,7 +176,17 @@ export default function About() {
           >
             <div className="img-frame">
               <div className="hero-img-mask">
-                <img src={Profile} alt="Mitesh Soni" className="hero-img" />
+                {!imgLoaded && (
+                  <div className="img-placeholder" aria-hidden>
+                    <div className="spinner" />
+                  </div>
+                )}
+                <img
+                  src={Profile}
+                  alt="Mitesh Soni"
+                  className={`hero-img ${imgLoaded ? "is-loaded" : "is-loading"}`}
+                  onLoad={() => setImgLoaded(true)}
+                />
               </div>
               <div className="exp-card">
                 <div className="exp-num">
